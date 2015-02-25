@@ -10,6 +10,7 @@ namespace MessageRedux_Server
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Server base");
         }
     }
 }
