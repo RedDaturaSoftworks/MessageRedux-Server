@@ -2,3 +2,6 @@ language: csharp
 
 # Build the project
 solution: MessageRedux-Server.sln
+
+notifications:
+  email: false
